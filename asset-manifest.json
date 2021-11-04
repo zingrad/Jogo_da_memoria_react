@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jogo_da_memoria_react/static/css/main.d337fbbc.chunk.css",
+    "main.js": "/Jogo_da_memoria_react/static/js/main.27b71b3b.chunk.js",
+    "main.js.map": "/Jogo_da_memoria_react/static/js/main.27b71b3b.chunk.js.map",
+    "runtime-main.js": "/Jogo_da_memoria_react/static/js/runtime-main.5334f523.js",
+    "runtime-main.js.map": "/Jogo_da_memoria_react/static/js/runtime-main.5334f523.js.map",
+    "static/js/2.80a5d11e.chunk.js": "/Jogo_da_memoria_react/static/js/2.80a5d11e.chunk.js",
+    "static/js/2.80a5d11e.chunk.js.map": "/Jogo_da_memoria_react/static/js/2.80a5d11e.chunk.js.map",
+    "static/js/3.ee092d16.chunk.js": "/Jogo_da_memoria_react/static/js/3.ee092d16.chunk.js",
+    "static/js/3.ee092d16.chunk.js.map": "/Jogo_da_memoria_react/static/js/3.ee092d16.chunk.js.map",
+    "index.html": "/Jogo_da_memoria_react/index.html",
+    "static/css/main.d337fbbc.chunk.css.map": "/Jogo_da_memoria_react/static/css/main.d337fbbc.chunk.css.map",
+    "static/js/2.80a5d11e.chunk.js.LICENSE.txt": "/Jogo_da_memoria_react/static/js/2.80a5d11e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5334f523.js",
+    "static/js/2.80a5d11e.chunk.js",
+    "static/css/main.d337fbbc.chunk.css",
+    "static/js/main.27b71b3b.chunk.js"
+  ]
+}
